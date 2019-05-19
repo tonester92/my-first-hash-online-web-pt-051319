@@ -1,4 +1,5 @@
-def my_hash = {"dogs" => "Bob", "numbers" => "6"}
+def my_hash 
+  my_hash = {"dogs" => "Bob", "numbers" => "6"}
 puts "#{my_hash}"  
 end
 
