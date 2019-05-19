@@ -1,5 +1,5 @@
 def my_hash = {"dogs" => "Bob", "numbers" => "6"}
-my_hash  
+puts "#{my_hash}"  
 end
 
 
